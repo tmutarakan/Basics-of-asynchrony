@@ -3,5 +3,6 @@
 ## 1. Введение.
 ## 2. Асинхронность с простыми функциями. Событийный цикл.
 ## 3. Асинхронность на колбэках.
+## 4. Генераторы и событийный цикл Round Robin.
 ## Ссылки
 [Асинхронность в Python](https://www.youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
