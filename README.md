@@ -5,5 +5,6 @@
 ## 3. Асинхронность на колбэках.
 ## 4. Генераторы и событийный цикл Round Robin.
 ## 5. Асинхронность на генераторах.
+## 6. Корутины и yield from.
 ## Ссылки
 [Асинхронность в Python](https://www.youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
