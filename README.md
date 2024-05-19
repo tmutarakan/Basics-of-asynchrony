@@ -6,5 +6,6 @@
 ## 4. Генераторы и событийный цикл Round Robin.
 ## 5. Асинхронность на генераторах.
 ## 6. Корутины и yield from.
+## 7. Asyncio, async/await.
 ## Ссылки
 [Асинхронность в Python](https://www.youtube.com/playlist?list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8)
